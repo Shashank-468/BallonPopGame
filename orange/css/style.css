@@ -1,0 +1,131 @@
+
+.background {
+  width: 1190px;
+  background: url('../images/background.png');
+}
+
+.board {
+  width: 600px;
+  height: auto;
+  float: right;
+}
+
+.sidebar {
+  width: 340px;
+  float: left;
+}
+
+.balloon {
+  position: absolute;
+  bottom: -50px;
+}
+.balloon2 {
+  position: absolute;
+  bottom: -50px;
+}
+
+.balloon3 {
+  position: absolute;
+  bottom: -50px;
+}
+
+.balloon4 {
+  position: absolute;
+  bottom: -50px;
+}
+
+.logo {
+  font-size: 40px;
+  text-align: center;
+  padding: 10px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+
+.starttext {
+  text-align: center;
+  font-size: 40;
+  margin: 40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+
+.startbutton {
+  text-align: center;
+  font-size: 40px;
+  margin: 40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+
+.startbutton:hover {
+  color: white;
+}
+
+.reset-button:hover {
+  color: white;
+}
+
+.gameover {
+  text-align: center;
+  font-size: 80px;
+  margin: 40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+
+.reset-button {
+  text-align: center;
+  font-size: 40px;
+  margin: 40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+
+#time {
+  font-size: 20px;
+  text-align: left;
+  margin: 40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+
+#score {
+  font-size: 20px;
+  text-align: left;
+  margin: 40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+
+#colour {
+  font-size: 20px;
+  text-align: left;
+  margin: 40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+
+#timer {
+  font-size: 20px;
+  text-align: left;
+  margin: 40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+
+#missed {
+  font-size: 20px;
+  text-align: left;
+  margin: 40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
+
+#high-score {
+  font-size: 20px;
+  text-align: left;
+  margin: 40px;
+  font-family: 'Press Start 2P', cursive;
+  color: #FFFF99;
+}
