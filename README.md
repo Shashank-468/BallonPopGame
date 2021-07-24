@@ -2,4 +2,4 @@ Ballon Burst Game is an interactive game which is used for colour identification
 
 https://shashank-468.github.io/BalloonPopGame/
 
-mbox.shashank@gmail.com
+mbox.shashank@gmail.co
